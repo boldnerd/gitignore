@@ -4,4 +4,4 @@ z*
 #ignore files .env
 .env
 #ignore top artifacts
-/Artifacts/
+/artifacts/
